@@ -1,4 +1,3 @@
-readme.txt
 
 Code Author:
 	Xin Qin - qinxin_thu@outlook.com, xq234@cam.ac.uk
