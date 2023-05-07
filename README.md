@@ -10,8 +10,10 @@ Data and Codes for the paper _The Role of Electricity Market Design for Energy S
 
 **Please refer to the following two folders:**
 
-program_code - this folder includes the code used for simulation
+
+	program_code - this folder includes the code used for simulation
 
 
-plot_code    - this folder includes the code used for data processing
+	plot_code    - this folder includes the code used for data processing
+
 
