@@ -17,3 +17,4 @@ Data and Codes for the paper _The Role of Electricity Market Design for Energy S
 	plot_code    - this folder includes the code used for data processing
 
 
+[![DOI](https://zenodo.org/badge/568208811.svg)](https://zenodo.org/badge/latestdoi/568208811)
