@@ -1,4 +1,4 @@
-# Readme
+# The Role of Electricity Market Design for Energy Storage in Cost-Efficient Decarbonization
 
 Data and Codes for the paper _The Role of Electricity Market Design for Energy Storage in Cost-Efficient Decarbonization_
 
