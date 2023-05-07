@@ -1,5 +1,5 @@
 Code Author:
-	Xin Qin - qinxin_thu@outlook.com 
+	Xin Qin - qinxin_thu@outlook.com, xq234@cam.ac.uk
 	Bolun Xu - bx2177@columbia.edu
 
 Please use the following two main functions to run the code and perform simulation:
